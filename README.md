@@ -26,8 +26,9 @@
   <img align="center" alt="Dinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <!-- Persona -->
-  <img src="img/perfil.gift" align="right" alt="foto-minha" height="150" width="150" style="border-radius:70px;">
+  
+  <img align="right" alt="foto-minha" height="150" width="150" src="img/perfil.gift">
+ 
   
 </div>
   
