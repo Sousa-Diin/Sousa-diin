@@ -18,13 +18,16 @@
   
   <img align="center" alt="Dinho-C" height="30" width="40" src="img/letter-c.png">
   <img align="center" alt="Dinho-Cpp" height="30" width="40" src="img/c-.png">
+
+  <img align="center" alt="Dinho-Java" height="30" width="40" src="img/java.png">
+  <img align="center" alt="Dinho-MySQL" height="30" width="40" src="img/mysql.png">
+  
   <img align="center" alt="Dinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dinho-Java" height="30" width="40" src="img/java.png">
-  <img align="center" alt="Dinho-MySQL" height="30" width="40" src="img/mysql.png">
+
   <!-- Persona -->
-  <img align="right" alt="foto-minha" height="150" width="150" style="border-radius:70px;" src="img/Design sem nome.gift" >
+  <img src="img/perfil.gift" align="right" alt="foto-minha" height="150" width="150" style="border-radius:70px;">
   
 </div>
   
