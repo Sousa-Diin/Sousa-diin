@@ -24,7 +24,7 @@
   <img align="center" alt="Dinho-Java" height="30" width="40" src="img/java.png">
   <img align="center" alt="Dinho-MySQL" height="30" width="40" src="img/mysql.png">
   <!-- Persona -->
-  <img align="right" alt="foto-minha" height="150" style="border-radius:70px;" src="https://www.canva.com/design/DAFF7nTYlOI/xsfJ39022j_-kawrrRDSYA/edit?utm_content=DAFF7nTYlOI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton?width=676&height=676"
+  <img align="right" alt="foto-minha" height="150" style="border-radius:70px;" src="https://www.canva.com/design/DAFF7nTYlOI/xsfJ39022j_-kawrrRDSYA/edit?utm_content=DAFF7nTYlOI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width=676&height=676">
 </div>
   
   ##
