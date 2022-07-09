@@ -27,7 +27,7 @@
   <img align="center" alt="Dinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   
-  <img align="right" alt="foto-minha" height="150" width="150" src="img/perfil.gift">
+  <img align="right" alt="foto-minha" height="150" width="150" src="img/avatar_suit.png">
  
   
 </div>
