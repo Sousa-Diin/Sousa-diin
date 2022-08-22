@@ -10,9 +10,9 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/sousa-Diin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousa-Diin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousa-Diin&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/Sousa-Diin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sousa-Diin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sousa-Diin&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   
