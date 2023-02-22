@@ -1,6 +1,6 @@
 ## Hi, I'm Wildes Sousa 👋
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning data struct
 - 👯 I’m looking to collaborate on Front-End
 - 🤔 I’m looking for help with Back-End
 - 💬 Ask me about 
